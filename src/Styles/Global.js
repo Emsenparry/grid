@@ -6,6 +6,8 @@ export const GlobalStyles = createGlobalStyle`
         border: solid 1px red;
         margin: 0;
         padding: 0;
+        list-style: none;
+        text-decoration: none;
     }
     body, html{
         width: 100%;
